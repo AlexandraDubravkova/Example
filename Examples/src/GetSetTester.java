@@ -1,6 +1,6 @@
 import org.w3c.dom.css.Rect;
 
-public class Name {
+public class GetSetTester {
 
     public static void main(String[] args){
         Example e = new Example("Andrej");
